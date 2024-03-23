@@ -1,8 +1,7 @@
 # Elastic SIEM Lab
 #### [Made by Jamian Worrell with Scribe](https://scribehow.com/shared/Elastic_SIEM_Lab__PhIU-Tz8R0ScpwqTlL4AJA)
 
-
-1\. 1. Navigate to the Elastic web portal at [https://cloud.elastic.co/.](https://cloud.elastic.co/)
+1. Navigate to the Elastic web portal at [https://cloud.elastic.co/.](https://cloud.elastic.co/)
 2. Click on the menu icon on the top-left, then under “Add Integrations,”\
    Click "Add Elastic Defend"\
    Click "Install Elastic Agent"\
