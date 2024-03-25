@@ -49,7 +49,7 @@ Inside your Elastic Deployment, click on the menu icon at the top-left with the 
 5\. We will click on view details and scroll and see our nmap scan is there.
 
 ![](https://colony-recorder.s3.amazonaws.com/files/2024-03-23/349f483c-b127-40fa-952b-c6c2b183f56a/stack_animation.webp)
-#### [Made with Scribe](https://scribehow.com/shared/Navigate_using_clicks_searches_filters_and_key_presses__BoUNWnp4RcWWJn-_cAYp5w)
+
 
 # Creating SIEM Dashboard
 1\. We will now be creating a dashboard to better visualize the information being sent our endpoint VM.
